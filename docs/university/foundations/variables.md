@@ -43,6 +43,8 @@ A Number variable stores numeric values, including integers and decimals. It's u
 ### Boolean
 
 A Boolean variable represents a true or false value. It is ideal for toggling states, such as visibility.
+> [!NOTE]
+> If a Boolean is set to "true" with quotation marks from your CMS, then compare the value CMS.trueorfalsefield === "true".
 
 ### JSON
 
